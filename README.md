@@ -1,27 +1,13 @@
-# Next.js + Tailwind CSS Example
+# GraphCMS Headless Blog
+### [Demonstração](https://quickstart-graphcms-nextjs.robsongomes.com.br/)
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
 
-## Deploy your own
+## Introdução
+Este é um projeto nextjs usando GraphCMS
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Com posts em destaque e recentes, categorias. artigos completos de remarcação, informações do autor, comentários e muito mais, este aplicativo de blog CMS totalmente responsivo.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+Este projeto foi feito e adaptado segundo a video do  [canal](https://www.youtube.com/watch?v=HYv55DhgTuA)
 
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+[Video aula](https://www.youtube.com/watch?v=HYv55DhgTuA)
